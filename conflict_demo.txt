@@ -1,1 +1,1 @@
-This is a file for testing conflict in git.
+This is a file in git repository for testing conflict in git.
